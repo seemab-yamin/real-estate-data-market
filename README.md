@@ -6,6 +6,10 @@
 This project we will store raw data in our mongodb for later analysis.
 
 
+## To DOs
+* [x] Find API
+* [ ] Compile Required Fields To Store in MongoDb
+* [ ] Convert to grequests for better speed
 
 
 
@@ -13,6 +17,8 @@ This project we will store raw data in our mongodb for later analysis.
 
 
 
+### PS:
+> This project is for learning pupose only.
 
 
 
