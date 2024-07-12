@@ -29,8 +29,5 @@ Unified Real Estate Data will assist buyers, sellers, market researchers, and ag
 3. FAST API Query Data From PostgreSQL and return structured data
 4. React Web App will render data returning from the API endpoints
 
-<center>
 
 ![unified-real-estate-data-workflow](https://raw.githubusercontent.com/seemab-yamin/unified-real-estate-data/main/unified-real-estate-data-workflow.png)
-
-</center>
