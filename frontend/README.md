@@ -1,0 +1,1 @@
+This directory is for front end source code in react.
