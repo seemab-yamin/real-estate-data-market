@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+.header {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 120px;
+    background-color: #e9e9e9;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Optional: To center content horizontally */
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e9e9e9;
+    text-align: center;
+  }
+  
