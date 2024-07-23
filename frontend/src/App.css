@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    flex-wrap: wrap; /* This makes divs wrap to new lines if necessary */
+  }
+  
+  .column {
+    flex: 1; /* Makes each div take up 1/3rd of the space */
+    padding: 10px; /* Optional padding for each div */
+  }
+  
+  /* Optional media queries for additional responsiveness */
+  @media (max-width: 768px) {
+    .column {
+      flex: 100%; /* Make each div take up full width on smaller screens */
+    }
+  }
